@@ -2,7 +2,8 @@
 
 ### I'm currently studying Computer Science at Idaho State University
 
-### Languages and Tools
+### Languages:
+![<img align="left" alt="C" width="48px" height="48px">](images/c.png)
 
 
 <!--
