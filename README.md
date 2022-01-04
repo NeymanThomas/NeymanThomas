@@ -1,4 +1,9 @@
-### Hi there 👋
+## Welcome to my profile, I'm Thomas!
+
+### I'm currently studying Computer Science at Idaho State University
+
+### Languages and Tools
+
 
 <!--
 **NeymanThomas/NeymanThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
