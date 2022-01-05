@@ -8,9 +8,9 @@
 - I want to learn more about web development in the future
 
 ### Languages:
-[<img align="left" alt="C" width="48px" height="48px" src="images/c.png">][C]
-[<img align="left" alt="C#" width="48px" height="48px" src="images/c-sharp.png">][C#]
-[<img align="left" alt="Java" width="48px" height="48px" src="images/java.png">][Java]
+![<img align="left" alt="C" width="48px" height="48px">](images/c.png)
+![<img align="left" alt="C#" width="48px" height="48px">](images/c-sharp.png)
+![<img align="left" alt="Java" width="48px" height="48px">](images/java.png)
 ![<img align="left" alt="MySQL" width="48px" height="48px">](images/mysql.png)
 ![<img align="left" alt=".Net" width="48px" height="48px">](images/dotnet.png)
 ![<img align="left" alt="HTML" width="48px" height="48px">](images/html.png)
@@ -23,7 +23,7 @@
 ![<img align="left" alt="Visual Studio" width="48px" height="48px">](images/visualstudio.png)
 ![<img align="left" alt="Linux" width="48px" height="48px">](images/linux.png)
 ![<img align="left" alt="Docker" width="48px" height="48px">](images/docker.png)
-![<img align="left" alt="Unity" width="48px" height="48px">](images/unity-black.png)
+![<img align="left" alt="Unity" width="48px" height="48px">](images/unity-black-alpha.png)
 ![<img align="left" alt="Maria DB" width="48px" height="48px">](images/mariadb.png)
 ![<img align="left" alt="Virtual Box" width="48px" height="48px">](images/virtualbox.png)
 ![<img align="left" alt="Intellij" width="48px" height="48px">](images/intellij.png)
