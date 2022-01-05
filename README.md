@@ -23,7 +23,7 @@
 ![<img align="left" alt="Visual Studio" width="48px" height="48px">](images/visualstudio.png)
 ![<img align="left" alt="Linux" width="48px" height="48px">](images/linux.png)
 ![<img align="left" alt="Docker" width="48px" height="48px">](images/docker.png)
-![<img align="left" alt="Unity" width="48px" height="48px">](images/unity.png)
+![<img align="left" alt="Unity" width="48px" height="48px">](images/unity-black.png)
 ![<img align="left" alt="Maria DB" width="48px" height="48px">](images/mariadb.png)
 ![<img align="left" alt="Virtual Box" width="48px" height="48px">](images/virtualbox.png)
 ![<img align="left" alt="Intellij" width="48px" height="48px">](images/intellij.png)
