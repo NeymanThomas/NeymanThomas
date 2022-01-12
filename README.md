@@ -11,10 +11,12 @@
 ![<img align="left" alt="C" width="48px" height="48px">](images/c.png)
 ![<img align="left" alt="C#" width="48px" height="48px">](images/c-sharp.png)
 ![<img align="left" alt="Java" width="48px" height="48px">](images/java.png)
+![<img align="left" alt="Python" width="48px" height="48px">](images/python.png)
 ![<img align="left" alt="MySQL" width="48px" height="48px">](images/mysql.png)
 ![<img align="left" alt=".Net" width="48px" height="48px">](images/dotnet.png)
 ![<img align="left" alt="HTML" width="48px" height="48px">](images/html.png)
 ![<img align="left" alt="CSS" width="48px" height="48px">](images/css.png)
+![<img align="left" alt="Matlab" width="48px" height="48px">](images/matlab.png)
 ![<img align="left" alt="R" width="48px" height="48px">](images/r.png)
 ![<img align="left" alt="LATEX" width="48px" height="48px">](images/latex.png)
 
