@@ -6,6 +6,7 @@
 - I want to collaborate more with other developers
 - I'm currently working on cybersecurity concepts and low level security
 - I want to learn more about web development in the future
+- Helped contribute in [Monopoly Implementation](https://github.com/thomasNeyman/CS_3321_Project/)
 
 ### Languages:
 ![<img align="left" alt="C" width="48px" height="48px">](images/c.png)
