@@ -17,7 +17,6 @@
 ![<img align="left" alt=".Net" width="48px" height="48px">](images/dotnet.png)
 ![<img align="left" alt="HTML" width="48px" height="48px">](images/html.png)
 ![<img align="left" alt="CSS" width="48px" height="48px">](images/css.png)
-![<img align="left" alt="Matlab" width="48px" height="48px">](images/matlab.png)
 ![<img align="left" alt="R" width="48px" height="48px">](images/r.png)
 ![<img align="left" alt="LATEX" width="48px" height="48px">](images/latex.png)
 
