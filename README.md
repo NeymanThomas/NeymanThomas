@@ -6,11 +6,13 @@
 - I want to collaborate more with other developers
 - I'm currently working on cybersecurity concepts and low level security
 - I want to learn more about web development in the future
+- Helped contribute in [Monopoly Implementation](https://github.com/thomasNeyman/CS_3321_Project/)
 
 ### Languages:
 ![<img align="left" alt="C" width="48px" height="48px">](images/c.png)
 ![<img align="left" alt="C#" width="48px" height="48px">](images/c-sharp.png)
 ![<img align="left" alt="Java" width="48px" height="48px">](images/java.png)
+![<img align="left" alt="Python" width="48px" height="48px">](images/python.png)
 ![<img align="left" alt="MySQL" width="48px" height="48px">](images/mysql.png)
 ![<img align="left" alt=".Net" width="48px" height="48px">](images/dotnet.png)
 ![<img align="left" alt="HTML" width="48px" height="48px">](images/html.png)
