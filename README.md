@@ -39,7 +39,6 @@
 <!--
 Add email, LinkedIn, Handshake, Website
 -->
-
-[C]: https://en.wikipedia.org/wiki/C_(programming_language)
-[C#]: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
-[Java]: https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html 
+[<img align="left" alt="LinkedIn" width="48px" height="48px" src="images/linkedin.png">](https://www.linkedin.com/in/thomas-neyman-052605230/)
+[<img align="left" alt="Handshake" width="48px" height="48px" src="images/handshake.png">](https://isu.joinhandshake.com/stu/users/13539760)
+[<img align="left" alt="Email" width="48px" height="48px" src="images/email.png">](mailto:NeymanThomas45@gmail.com)
